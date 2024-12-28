@@ -50,7 +50,7 @@ function _0x25e5() {
     "textAlign",
     "position",
     "load",
-    "Panbap",
+    "Design by HoaXinhNoPai",
     "MeshSurfaceSampler",
     "rotation",
     "PerspectiveCamera",
